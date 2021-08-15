@@ -1,0 +1,59 @@
+(TXT FILE):
+
+
+
+ 1)WAP to create a text file of story.txt with one line at a time. Display the file.
+ 2)Write a menu driven program to create a file using writelines() and display the text file using readline() depending on the choice of user.
+ 3)Write a function to count and display number of words which starts with alphabet a in an existing text file 'story.txt'.
+ 4)WAF to display the number of lines in the file ‘story.txt’.
+ 5)WAF to display the number of characters of file ‘first.txt’ without counting EOL characters.
+ 6)WAF to count and display number of words in each line of text file "first.txt".
+ 7)WAF to read a text file and display the count of vowels and consonants in the file ‘poem.txt’.
+ 8)WAF to display the size of a file after removing EOL characters, leading and trailing spaces and blank lines.
+ 9)WAF to reverse and display each line of text from a already created text file ‘poem.txt’.
+ 10)WAF to find and display the occurrence of the word ‘we’ in text file ‘poem.txt’.
+ 11)WAF to read the text from file ‘poem.txt’ and replace the occurrence of ‘that’ with ‘this’ and store the entire file content after replacement
+    in file ‘ufile.txt’.
+ 12)WAF to count and display the words ending with ‘e’ in a text file ‘poem.txt’.
+
+
+
+(BINARY DAT FILE):
+
+1)WAF to create a binary file 'student.dat' storing the student details as rollno, name and the marks depending on the choice of the user.
+
+2)[PRAC] Write a menu driven program to do the following functions:-
+   (a)To create a binary file 'student.dat' containing fields as rno, name, marks and grade in a list.
+   (b)Display the details of all those studends who have got grade A.
+
+3)[PRAC] Write a menu driven program to do the following:-
+   (a)To create a binary file 'product.dat' in the following format : {‘name’ : ‘file’, ‘price’ : 112}, {‘name’ : ‘pen’, ‘price’ : 30}, etc.
+   (b)To display the above file
+   (c)Transfer all the records from binary file ‘product.dat’ to ‘new.dat’ whose price is less than 100.
+
+4)[PRAC] Write a menu driven program to do the following:-
+   (a)To create a binary file 'student.dat' containing fields as rno,name, marks and grade in a list.
+   (b)Function to update a record for a given roll number without using another file.
+   (b)Display the file after and before updation
+
+5)[PRAC] Write a menu driven program to do the following:-
+   (a)To create a binary file 'student.dat' containing fields as rno,name, marks and grade in a list.
+   (b)Function to delete a record for a given roll number.
+   (b)Display the file after and before updation
+
+6)[PRAC] Write a menu driven program to do the following:-
+   (a)To create a binary file 'item.dat' containing fields as item_id,item_name, price, quantity in the following format : [[121,pen,20,5],[21,pencil,10,10],.....]
+   (b)To display the above file
+   (c)Add more item details in the existing file.
+   (d)Display the details of an item for a given item_id.
+
+
+(CSV file ):
+
+
+
+
+
+
+
+
